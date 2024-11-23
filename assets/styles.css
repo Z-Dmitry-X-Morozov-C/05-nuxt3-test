@@ -41,13 +41,15 @@ p {
   margin-top: 23px;
 }
 
-
+.svg-icon_position {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
 @media (max-width: 682px) {
   p {
     max-width: 100%;
   }
 }
-
-
-

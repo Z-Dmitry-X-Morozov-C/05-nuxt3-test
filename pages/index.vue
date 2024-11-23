@@ -7,7 +7,5 @@
 </template>
 
 <script setup>
-import EditorTools from "~/components/EditorTools.vue";
+import EditorTools from "~/components/EditorComponent.vue";
 </script>
-
-<style scoped></style>
